@@ -1,2 +1,2 @@
-# smd-linux-template
-Template for Repositories
+# Evil-Arch Plank
+Layout for Plank Dock on Laptop
